@@ -1,5 +1,4 @@
 # Excel_com_Python
-Integrações com Excel e Python para análises e processamentos de dados
 
 <h3>Análise BonusViagem</h3>
 <p>A empresa de vendas possui uma política de premiar o vendedor que alcançar a meta de R$55.000 em vendas em um mês.</p>
