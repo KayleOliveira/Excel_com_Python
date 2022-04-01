@@ -10,9 +10,9 @@ Caso o programa encontre, enviará um sms para o número indicado no código com
 
 <h3>Vendas Python</h3>
 <p>O código possui a função de ler a planilha 'Vendas.xlsx' e retornar os seguintes resultados:</p>
-<p>Faturamento por loja<br>
-Quantidade de produtos vendidos por cada loja<br>
-Ticket médio de cada loja (faturamento/quantidade de produtos)</p>
+<p>Faturamento por loja.<br>
+Quantidade de produtos vendidos por cada loja.<br>
+Ticket médio de cada loja (faturamento/quantidade de produtos).</p>
 <br>
 
-<p>Todas estas informações são retornadas por e-mail em um relatório</p>
+<p>Todas estas informações são retornadas por e-mail em um relatório.</p>
